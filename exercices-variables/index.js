@@ -1,8 +1,8 @@
 let name = "Legolas";
-console.log(character);
+console.log(name);
 
 name = "Gimli";
-console.log(character);
+console.log(name);
 
 let nombre1 = 10654;
 console.log(nombre1);
